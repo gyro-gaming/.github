@@ -8,7 +8,7 @@ The choice of how you decided to train will be shown as the result of your fight
 
 This general theme will continue as the warrior trains and becomes stronger.  His choices will ultimately determine if he will be able to save the universe. Once the warrior has defeated (3-5) enemies you will have conquered the universe and will be considered the GOAT.
 
-
+![](https://i.imgur.com/FWdMRRb.jpg)
 
 ### Features
 *	Allow player to enter their name
