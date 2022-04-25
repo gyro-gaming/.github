@@ -16,6 +16,7 @@ This general theme will continue as the warrior trains and becomes stronger.  Hi
 *	Gameplay Music 
 *	Map of the World
 
+![](https://i.imgur.com/kyLeR6G.png)
 
 <!--
 ## Hi there 👋
