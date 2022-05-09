@@ -1,28 +1,5 @@
-An older lady hears the crying of a baby out in the distance as she's relaxing on her couch.  She lives out in the middle of the country and finds this really strange.  The older lady finds the baby covered in dirt and mud outside her shed.  She brings in the baby to give it a bath. She discovers markings that seem from a different civilization. The old lady calls the Shaman who examines the baby and notices the markings are from the language that the first of mankind spoke and wrote. They died off with the evolution of civilization and the growing distance between spirituality. This shocks the Shaman and the old lady.  One day they notice powers when the old lady is being attacked by a cougar.  The boy sprints over just as the lady was about to fall off the edge of a cliff trying to get away.  He grabs her and brings her to safety.  The old lady passes out to be awakened by the boy carrying her in one arm and the dead cougar in the other.  The boy begins to train and become a stronger fighter to protect his family from predators and eventually his community from evil men. 
-
-The boy is now an adolescent man who is now being asked to fight a bully who is threatening to take over his country.  You must choose how he will prepare for this fight.  Will he increase his super natural ability through the shaman, train and sharpen his fighting technique in the gym and wilderness, or will he just focus on being the healthiest by eating and increasing his energy levels. 
-
-Implement a map of the world that allows you to move around and see the different fighters and evils of the world.  You must choose to see if you want to fight the enemy or move on until you have developed the certain powers and skill sets to do so.
-
-The choice of how you decided to train will be shown as the result of your fight with this bully.  The fighting arena will be based on a square. You may choose to go up, right, diagonal, or choose to stay in place. You will also have the choice to direct a special attack to different portions of the arena. If no special attack is chosen then you are wanting to engage in direct combat. Damage is only administered if you have chosen to be in the same corner as your enemy and they are conducting a special attack. If you choose a special attack then that damage will only be administered if the enemy is located in that specified corner.  If you choose a special attack, your opponent chooses to fight and you are located in the same corner, you will take the appropriate damage.  If you both choose to fight then you will equal out.
-
-This general theme will continue as the warrior trains and becomes stronger.  His choices will ultimately determine if he will be able to save the universe. Once the warrior has defeated (3-5) enemies you will have conquered the universe and will be considered the GOAT.
-
-![](https://i.imgur.com/FWdMRRb.jpg)
-
-### Features
-*	Allow player to enter their name
-*	Implement Ascii Art
-*	Gameplay Music 
-*	Map of the World
-
-![](https://i.imgur.com/kyLeR6G.png)
-
+# Gyro Gaming
 <!--
-## Hi there 👋
-
-**Here are some ideas to get you started:**
-
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
